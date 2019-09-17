@@ -1,0 +1,7 @@
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-1\bin\Debug\s6-1.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-1\bin\Debug\s6-1.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-1\obj\x86\Debug\s6_1.BankOperation.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-1\obj\x86\Debug\s6_1.Properties.Resources.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-1\obj\x86\Debug\s6-1.csproj.GenerateResource.Cache
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-1\obj\x86\Debug\s6-1.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-1\obj\x86\Debug\s6-1.pdb

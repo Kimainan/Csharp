@@ -1,0 +1,7 @@
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-2\bin\Debug\s6-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-2\bin\Debug\s6-2.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-2\obj\x86\Debug\s6_2.EMailCheck.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-2\obj\x86\Debug\s6_2.Properties.Resources.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-2\obj\x86\Debug\s6-2.csproj.GenerateResource.Cache
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-2\obj\x86\Debug\s6-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s6\s6-2\obj\x86\Debug\s6-2.pdb
