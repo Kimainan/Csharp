@@ -1,0 +1,10 @@
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s1\s1-2\bin\Debug\s1-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s1\s1-2\bin\Debug\s1-2.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s1\s1-2\obj\x86\Debug\s1_2.Form1.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s1\s1-2\obj\x86\Debug\s1_2.Properties.Resources.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s1\s1-2\obj\x86\Debug\s1-2.csproj.GenerateResource.Cache
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s1\s1-2\obj\x86\Debug\s1-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s1\s1-2\obj\x86\Debug\s1-2.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s1\s1-2\obj\x86\Debug\s1-2.csprojResolveAssemblyReference.cache
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\实验1\s1\s1-2\obj\x86\Debug\s1-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\实验1\s1\s1-2\obj\x86\Debug\s1-2.pdb
