@@ -1,0 +1,9 @@
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s5\s5-2\bin\Debug\s5-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s5\s5-2\bin\Debug\s5-2.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s5\s5-2\obj\x86\Debug\s5_2.Form1.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s5\s5-2\obj\x86\Debug\s5_2.Properties.Resources.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s5\s5-2\obj\x86\Debug\s5-2.csproj.GenerateResource.Cache
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s5\s5-2\obj\x86\Debug\s5-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s5\s5-2\obj\x86\Debug\s5-2.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\2016306100411 金倩倩\s5\s5-2\obj\x86\Debug\s5-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\2016306100411 金倩倩\s5\s5-2\obj\x86\Debug\s5-2.pdb
