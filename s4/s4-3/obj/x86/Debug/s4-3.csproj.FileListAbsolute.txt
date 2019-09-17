@@ -1,0 +1,4 @@
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-3\bin\Debug\s4-3.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-3\bin\Debug\s4-3.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-3\obj\x86\Debug\s4-3.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-3\obj\x86\Debug\s4-3.pdb

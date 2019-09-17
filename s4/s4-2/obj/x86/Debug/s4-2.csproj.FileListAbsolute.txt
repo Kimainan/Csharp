@@ -1,0 +1,5 @@
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-2\bin\Debug\s4-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-2\bin\Debug\s4-2.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-2\obj\x86\Debug\s4-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-2\obj\x86\Debug\s4-2.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s4\s4-2\obj\x86\Debug\s4-2.csprojResolveAssemblyReference.cache
