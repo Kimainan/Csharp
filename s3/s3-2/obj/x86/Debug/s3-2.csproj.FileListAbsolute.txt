@@ -1,0 +1,7 @@
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s3\s3-2\bin\Debug\s3-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s3\s3-2\bin\Debug\s3-2.pdb
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s3\s3-2\obj\x86\Debug\s3_2.Form1.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s3\s3-2\obj\x86\Debug\s3_2.Properties.Resources.resources
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s3\s3-2\obj\x86\Debug\s3-2.csproj.GenerateResource.Cache
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s3\s3-2\obj\x86\Debug\s3-2.exe
+C:\Users\jimqian\Desktop\Csharp程序设计\mytest\s3\s3-2\obj\x86\Debug\s3-2.pdb
